@@ -1,2 +1,2 @@
 # hello-world
-learning about repositories
+learning to create repositories
